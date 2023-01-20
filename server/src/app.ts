@@ -36,5 +36,5 @@ app.post("/message", async (req, res) => {
 });
 
 app.listen(4000, () => {
-	console.log("This app listening to http://localhost:4000");
+	console.log("This app listening asdas to http://localhost:4000");
 });
